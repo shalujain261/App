@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text-area{
+    width: 80%;
+    height: 10vh;
+    padding: 1rem;
+    margin: 1rem;
+    display: block;
+}
+.output{
+    border: 2px solid black;
+    width: 80%;
+    height: 10vh;
+    padding: 1rem;
+    margin: 1rem;
+}
